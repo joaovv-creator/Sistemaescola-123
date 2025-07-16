@@ -13,6 +13,7 @@ Este é um sistema simples de controle acadêmico desenvolvido em **JavaScript**
 - 👤 Cadastro de Alunos (nome)
 - 📘 Cadastro de Cursos (nome)
 - 🔗 Associação entre Alunos e Cursos
+- (De penetra tem um sistema de locadora quue segue o mesmo modelo do sistea escola)
 
 ---
 
@@ -25,6 +26,4 @@ Este é um sistema simples de controle acadêmico desenvolvido em **JavaScript**
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Sistema-escola123.git
-
-   (De penetra tem um sistema de locadora seguindo o modelo de um desses sistemas escola /*O mais desenvolvido*/
+   git clone https://github.com/joaovv-creator/Sistema-escola123.git
