@@ -13,7 +13,7 @@ Este é um sistema simples de controle acadêmico desenvolvido em **JavaScript**
 - 👤 Cadastro de Alunos (nome)
 - 📘 Cadastro de Cursos (nome)
 - 🔗 Associação entre Alunos e Cursos
-- (De penetra tem um sistema de locadora quue segue o mesmo modelo do sistea escola)
+- (De penetra tem um sistema de locadora quue segue o mesmo modelo do sistema escola)
 
 ---
 
